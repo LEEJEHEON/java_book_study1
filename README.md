@@ -1,1 +1,9 @@
-# java_book_study1
+# 자바를 다루는 기술 
+![image](https://user-images.githubusercontent.com/59727902/149100151-80c19afa-a142-438a-ae4e-8fe7392847fd.png)
+
+
+## 진행 날짜 
+
+1. 2022-01-12(수) 
+- git 생성 
+- 첫째마당 > 1장 진행
